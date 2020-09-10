@@ -20,6 +20,7 @@ A cheat-sheet for creating web apps with the Django framework using the Python l
 - Install django with `$ pipenv install django`
 - Install other package dependencies with `$ pipenv install <package_name>`
 - Get a list of all the installed package >pip freeze
+- Deactive Virtual environment >deactivate
 
 ## :blue_book: Creating a project
 - Navigate to main folder with `$ cd <folder>`
