@@ -14,8 +14,9 @@ A cheat-sheet for creating web apps with the Django framework using the Python l
 
 ## :snake: Initializing pipenv (optional)
 - Make main folder with `$ mkdir <folder>` and navigate to it with `$ cd <folder>`
-- Initialize pipenv with Windows/Mac/Linux: >virtualenv .  -- `$ pipenv install`
-- Enter pipenv shell with Windows: >.\Scripts\activate Mac/Linux: $source env/bin/activate --`$ pipenv shell`
+- Initialize pipenv with #Windows/Mac/Linux: >virtualenv .  -- `$ pipenv install`
+- Activate virtual Environment with #Windows: >.\Scripts\activate #Mac/Linux: $source bin/activate
+- Enter pipenv shell with `$ pipenv shell`
 - Install django with `$ pipenv install django`
 - Install other package dependencies with `$ pipenv install <package_name>`
 
